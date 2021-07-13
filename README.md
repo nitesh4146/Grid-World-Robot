@@ -1,6 +1,6 @@
 # Grid-World-Robot
 
-  1. Please use python2.7
+  1. This is python2.7 implementation, for python3.x [click here](https://github.com/nitesh4146/Treasure-Hunters-Inc)
   2. The map must be saved as a text file with the following format:
   
 	0 0 0 0 3  
